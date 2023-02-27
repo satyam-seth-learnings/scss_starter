@@ -1,0 +1,26 @@
+{
+  "name": "scss_starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp sass",
+    "watch": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyam-seth-learnings/scss_starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyam-seth-learnings/scss_starter/issues"
+  },
+  "homepage": "https://github.com/satyam-seth-learnings/scss_starter#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.58.3"
+  }
+}
