@@ -27,8 +27,6 @@ npm install gulp-sass --save-dev
 - Install `gulp-sourcemap` glup plugin for generating sourcemap files
 
 ```bash
-
-```bash
 npm install gulp-sourcemaps --save-dev
 ```
 
